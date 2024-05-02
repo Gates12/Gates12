@@ -1,7 +1,7 @@
 <h1 align="center">Hi Folks:) 👋, This is Gates Babu</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<img height=350 width=470 align="right" src="https://media.giphy.com/media/M46APO1jt9v1pwxWTb/giphy.gif?cid=ecf05e47xjma2sp7txh0fbjz2uthyxh6rn12yqi47bl436gg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Weeknd" />
+<img height=300 width=380 align="right" src="https://media.giphy.com/media/M46APO1jt9v1pwxWTb/giphy.gif?cid=ecf05e47xjma2sp7txh0fbjz2uthyxh6rn12yqi47bl436gg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Weeknd" />
 
 - 🎓 Senior at **IIIT LUCKNOW**
 - 🔭 Web development is something that interests me

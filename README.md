@@ -3,7 +3,7 @@
 
 - 🎓 Senior at **IIIT LUCKNOW**
 
-- 📫 Rech Me **samuelgates36@gmail.com**
+- 📫 Reach Me **samuelgates36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

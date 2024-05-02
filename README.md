@@ -6,11 +6,9 @@
 - 🎓 Senior at **IIIT LUCKNOW**
 - 🔭 Web development is something that interests me
 - 🌱 I’m currently  on Data Structures
-- 👯 I’m looking to collaborate on Web development and MERN Stack projects
+- 👯 I’m looking to collaborate on MERN Stack projects
 - 💬 Ask me about Web Development and competetive coding
 - 📫 Reach Me **samuelgates36@gmail.com**
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gates12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 <h3 align="left">Connect with me:</h3>

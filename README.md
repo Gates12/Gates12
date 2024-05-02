@@ -1,5 +1,7 @@
 <h1 align="center">Hi Folks:) 👋, This is Gates Babu</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
+
+<img height=350 align="right" src="https://www.google.com/imgres?q=weeknd%20after%20hours%20hd&imgurl=https%3A%2F%2Fe0.pxfuel.com%2Fwallpapers%2F538%2F478%2Fdesktop-wallpaper-theweeknd-the-weeknd-music-the-weeknd-iphone-the-weeknd-after-hours.jpg&imgrefurl=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dthe%2Bweeknd%2Bafter%2Bhours&docid=X8fv9U2fa4GXLM&tbnid=xvAXWClCJFPduM&vet=12ahUKEwjYgtqsmO6FAxWwzTgGHUSgBqUQM3oECEAQAA..i&w=850&h=1224&hcb=2&ved=2ahUKEwjYgtqsmO6FAxWwzTgGHUSgBqUQM3oECEAQAA" alt="Weeknd" />
 
 - 🎓 Senior at **IIIT LUCKNOW**
 

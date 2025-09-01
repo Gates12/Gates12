@@ -4,11 +4,10 @@
 <img height=300 width=380 align="right" src="https://media.giphy.com/media/M46APO1jt9v1pwxWTb/giphy.gif?cid=ecf05e47xjma2sp7txh0fbjz2uthyxh6rn12yqi47bl436gg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Weeknd" />
 
 - 🎓 Graduate from **IIIT LUCKNOW**
-- 🔭 Web development is something that interests me
-- 🌱 I’m currently  on Data Structures
-- 👯 I’m looking to collaborate on MERN Stack and SpringBoot projects
-- 💬 Ask me about Web Development and competetive coding
-- 📫 Reach Me **samuelgates36@gmail.com**
+- 🔭 Software development is something that interests me
+- 👯 I’m looking to collaborate on pringBoot projects
+- 💬 Ask me about Software Development and competetive coding
+- 📫 Reach Me **gatesbabudakarapu18@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
